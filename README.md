@@ -1,7 +1,3 @@
-# Excelerate-Hackathon-Planner
-Project planning tools and documentation for a global hackathon.
-Project charter, budget, planning and presentation for Excelerate's global hackathon initiative.
-
 # 📢 Excelerate Hackathon Planner
 
 A comprehensive project plan for organizing a global hackathon, designed by my Team as part of Excelerate's innovation initiative.
