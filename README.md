@@ -9,7 +9,7 @@ A comprehensive project plan for organizing a global hackathon, designed by my T
 | File | Description |
 |------|-------------|
 | 📄 `Project Plan.docx` | Complete planning framework and execution guide |
-| 📄 `Excelerate Project Charter.docx` ./Excelerate Project Charter.docx | Charter outlining objectives, milestones, and risks |
+| 📄 `Excelerate Project Charter.docx` (./Excelerate Project Charter.docx) | Charter outlining objectives, milestones, and risks |
 | 📄 `budget plan.docx` | Budget estimate and weighted cost analysis |
 | 📑 `Team 2B Final Presentation.pdf` | Final deck used to present to stakeholders |
 | 🎥 `Final Presentation.mp4` | Presentation recording |
